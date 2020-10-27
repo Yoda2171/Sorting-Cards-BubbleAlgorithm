@@ -1,0 +1,55 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+#mybutton{
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    text-shadow: 3px 2px 1px #5c5858;
+    color: #0c0c0c;
+    padding: 10px;      
+}
+#draw{
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    border: 2px;
+    border-radius: 6px;
+    background-color:rgb(231, 4, 4);
+    color:whitesmoke; 
+    text-transform: uppercase;
+}  
+   
+#sort{
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    border: 2px;
+    border-radius: 6px;
+    background-color:rgb(231, 4, 4);
+    color:whitesmoke; 
+    text-transform: uppercase;
+}
+#refresh{
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    border: 2px;
+    border-radius: 6px;
+    background-color:rgb(231, 4, 4);
+    color:whitesmoke; 
+    text-transform: uppercase;
+}
+.card {
+    width: 100px;
+    display: inline-block;
+    margin: 0 auto;
+    margin-top: 10px;
+    border-radius: 10px;
+    box-shadow:5px 5px rgba(0,0,0,0.30), 9px 9px rgba(0,0,0,0.22);
+}
+
+.redColor{
+    color: red;
+}
+
+.blackColor{
+    color: black;
+}
